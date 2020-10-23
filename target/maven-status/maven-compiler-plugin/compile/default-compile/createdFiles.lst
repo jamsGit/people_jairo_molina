@@ -1,0 +1,8 @@
+com\person\api\repository\PersonRepository.class
+com\person\api\controllers\PersonController.class
+com\person\api\models\Person$PersonBuilder.class
+com\person\api\PeopleApplication.class
+com\person\api\services\BaseService.class
+com\person\api\models\Person.class
+com\person\conf\SwaggerSpringConfig.class
+com\person\api\services\PersonService.class
